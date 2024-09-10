@@ -35,7 +35,7 @@ This project is a C++ application that generates strong passwords and checks the
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AymanWolfX/PasswordGenerator-StrengthChecker.git
+    git clone https://github.com/AymanJanati/PasswordGenerator-StrengthChecker.git
     ```
 
 2. Navigate to the project directory:
